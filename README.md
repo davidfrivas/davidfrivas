@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidfrivas](https://github.com/davidfrivas)
 
-- 📫 How to reach me **dfr5108@gmail.com**
-
 - ⚡ Fun fact **I enjoy taking portrait photography**
 
 <h3 align="left">Connect with me:</h3>
