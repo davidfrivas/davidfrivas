@@ -1,4 +1,4 @@
-<img src="./github-banner.jpg" alt="banner">
+<img src="./github-banner1.jpg" alt="banner">
 
 <h1 align="center">Hi 👋, I'm David Rivas</h1>
 <h3 align="center">A web developer and neuroscience researcher from New York</h3>
