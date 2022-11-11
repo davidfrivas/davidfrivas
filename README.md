@@ -1,15 +1,15 @@
 <img src="./github-banner1.jpg" alt="banner">
 
-<h1 align="center">Hi 👋, I'm David Rivas</h1>
+<h1 align="center">Hi, I'm David Rivas</h1>
 <h3 align="center">A web developer and neuroscience researcher from New York</h3>
 
-- 🔭 I’m currently working on [muhle-lab-web](https://github.com/davidfrivas/muhle-lab-web)
+- I’m currently working on [muhle-lab-web](https://github.com/davidfrivas/muhle-lab-web)
 
-- 🌱 I’m currently learning **JavaScript**
+- I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidfrivas](https://github.com/davidfrivas)
+- All of my projects are available at [https://github.com/davidfrivas](https://github.com/davidfrivas)
 
-- ⚡ Fun fact **I enjoy taking portrait photography**
+- Fun fact **I enjoy taking portrait photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
