@@ -1,15 +1,13 @@
 <img src="./github-banner1.jpg" alt="banner">
 
 <h1 align="center">Hi, I'm David Rivas</h1>
-<h3 align="center">A computer science student and neuroscience researcher from New York</h3>
+<h3 align="center">A computer science student and neuroscience researcher based in New York</h3>
 
-- I’m currently working on [muhle-lab-web](https://github.com/davidfrivas/muhle-lab-web)
+- I’m currently enrolled in the MS Computer Science program at SUNY New Paltz
 
-- I’m currently learning **JavaScript**
+- I’m currently learning **Java and JavaScript**
 
-- All of my projects are available at [https://github.com/davidfrivas](https://github.com/davidfrivas)
-
-- Fun fact **I enjoy taking portrait photography**
+- Some hobbies include portrait photography, music production, and crate digging old vinyl records
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidfrivas&show_icons=true&locale=en" alt="davidfrivas" /></p>
 
