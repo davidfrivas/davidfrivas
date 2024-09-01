@@ -1,7 +1,7 @@
 <img src="./github-banner1.jpg" alt="banner">
 
 <h1 align="center">Hi, I'm David Rivas</h1>
-<h3 align="center">A web developer and neuroscience researcher from New York</h3>
+<h3 align="center">A computer science student and neuroscience researcher from New York</h3>
 
 - I’m currently working on [muhle-lab-web](https://github.com/davidfrivas/muhle-lab-web)
 
