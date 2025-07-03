@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm David Rivas</h1>
 <h3 align="center">A computer science student and neuroscience researcher based in New York</h3>
 
-- I’m currently enrolled in the MS Computer Science program at SUNY New Paltz
+- I’m currently enrolled in the MS Computer Science program at SUNY New Paltz.
 
-- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research.
+- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research. My research investigates how disruptive mutations in the 'CHD8' gene contribute to risk for autism spectrum disorder. My current recent research projects involve using EEG to understand the role of CHD8 in underlying sleep architecture.
 
-- Some hobbies include portrait photography, music production, and crate digging old vinyl records
+- I'm currently developing an automated sleep stage classification system using mouse EEG/EMG data and implementing machine learning and deep learning models.
+
+- Some hobbies include portrait photography, music production, and crate digging old vinyl records.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
