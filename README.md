@@ -3,7 +3,9 @@
 
 - I’m currently enrolled in the MS Computer Science program at SUNY New Paltz.
 
-- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research. My research investigates how disruptive mutations in the 'CHD8' gene contribute to risk for autism spectrum disorder. My current recent research projects involve using EEG to understand the role of CHD8 in underlying sleep architecture.
+- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research.
+
+- My research investigates how disruptive mutations in the 'CHD8' gene contribute to risk for autism spectrum disorder. My current recent research projects involve using EEG to understand the role of CHD8 in underlying sleep architecture.
 
 - I'm currently developing an automated sleep stage classification system using mouse EEG/EMG data and implementing machine learning and deep learning models.
 
