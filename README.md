@@ -25,4 +25,6 @@
   <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+  <a href="https://cplusplus.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="auto" height="40"/></a>
+  <a href="https://cmake.org" target="_blank" rel="noopener noreferrer"><img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/CMake.png" alt="cmake" width="40" height="40"/></a>
 </p>
