@@ -3,7 +3,7 @@
 
 - I’m currently enrolled in the MS Computer Science program at SUNY New Paltz
 
-- I’m currently learning **Java and JavaScript**
+- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research.
 
 - Some hobbies include portrait photography, music production, and crate digging old vinyl records
 
