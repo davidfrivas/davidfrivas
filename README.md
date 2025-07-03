@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/david-f-rivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-f-rivas" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/david-f-rivas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Rivas's LinkedIn Profile" height="30" width="40" /></a>
+  <a href="https://scholar.google.com/citations?user=KsPVH1gAAAAJ&hl=en" target="_blank"><img align="center" src="https://www.library.cmu.edu/sites/default/files/styles/medium/public/2021-08/GoogleScholar_IndividualServicespng.png?itok=vtedOukP" alt="David Rivas's Google Scholar Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
