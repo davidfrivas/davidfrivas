@@ -1,13 +1,7 @@
 <h1 align="center">Hi, I'm David Rivas</h1>
-<h3 align="center">A computer science student and neuroscience researcher based in New York</h3>
+<h3 align="center">An IBM z/OS Back End Developer based in New York</h3>
 
-- I’m enrolled in the MS Computer Science program at SUNY New Paltz.
-
-- I work as a Research Worker at Columbia University, Department of Psychiatry, with 5 years of experience in neuroscience research.
-
-- My research investigates how disruptive mutations in the 'CHD8' gene contribute to risk for autism spectrum disorder. Recent research projects involve analyzing continuous EEG recordings to elucidate the role of CHD8 in underlying sleep architecture.
-
-- I'm currently developing an automated sleep stage classification system using mouse EEG/EMG data and implementing machine learning and deep learning models.
+- I work with the AI Frameworks team for IBM Z AI Enablement. Our team aims to support AI infrastructure on IBM Z mainframes.
 
 - Some hobbies include portrait photography, music production, and crate digging old vinyl records.
 
