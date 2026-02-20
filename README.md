@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm David Rivas</h1>
 <h3 align="center">An IBM z/OS Back End Developer based in New York</h3>
 
-- I work with the AI Frameworks team for IBM Z AI Enablement. Our team aims to support AI infrastructure on IBM Z mainframes.
-
+- I work with the AI Frameworks team for IBM Z AI Enablement. 
 - Some hobbies include portrait photography, music production, and crate digging old vinyl records.
 
 <h3 align="left">Connect with me:</h3>
